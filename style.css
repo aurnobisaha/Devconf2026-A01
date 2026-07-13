@@ -276,3 +276,14 @@ width:100%;
     margin-bottom: 5px;
 }
 
+.faq
+{
+    text-align: center;
+    margin-bottom: 5px;
+   display: grid;
+   gap:20px;
+}
+.placeholder h2
+{
+    font-size: 32px;
+}
